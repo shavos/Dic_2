@@ -1,0 +1,11 @@
+/Users/shovan/Projects/Dic_2/bin/Debug/netcoreapp2.1/Dic_2.deps.json
+/Users/shovan/Projects/Dic_2/bin/Debug/netcoreapp2.1/Dic_2.runtimeconfig.json
+/Users/shovan/Projects/Dic_2/bin/Debug/netcoreapp2.1/Dic_2.runtimeconfig.dev.json
+/Users/shovan/Projects/Dic_2/bin/Debug/netcoreapp2.1/Dic_2.dll
+/Users/shovan/Projects/Dic_2/bin/Debug/netcoreapp2.1/Dic_2.pdb
+/Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.csprojAssemblyReference.cache
+/Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.csproj.CoreCompileInputs.cache
+/Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.AssemblyInfoInputs.cache
+/Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.AssemblyInfo.cs
+/Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.dll
+/Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.pdb
