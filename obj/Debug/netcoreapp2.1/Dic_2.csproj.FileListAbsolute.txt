@@ -9,3 +9,14 @@
 /Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.AssemblyInfo.cs
 /Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.dll
 /Users/shovan/Projects/Dic_2/obj/Debug/netcoreapp2.1/Dic_2.pdb
+C:\Users\arjan\Source\Repos\Dic_2\bin\Debug\netcoreapp2.1\Dic_2.deps.json
+C:\Users\arjan\Source\Repos\Dic_2\bin\Debug\netcoreapp2.1\Dic_2.runtimeconfig.json
+C:\Users\arjan\Source\Repos\Dic_2\bin\Debug\netcoreapp2.1\Dic_2.runtimeconfig.dev.json
+C:\Users\arjan\Source\Repos\Dic_2\bin\Debug\netcoreapp2.1\Dic_2.dll
+C:\Users\arjan\Source\Repos\Dic_2\bin\Debug\netcoreapp2.1\Dic_2.pdb
+C:\Users\arjan\Source\Repos\Dic_2\obj\Debug\netcoreapp2.1\Dic_2.csprojAssemblyReference.cache
+C:\Users\arjan\Source\Repos\Dic_2\obj\Debug\netcoreapp2.1\Dic_2.csproj.CoreCompileInputs.cache
+C:\Users\arjan\Source\Repos\Dic_2\obj\Debug\netcoreapp2.1\Dic_2.AssemblyInfoInputs.cache
+C:\Users\arjan\Source\Repos\Dic_2\obj\Debug\netcoreapp2.1\Dic_2.AssemblyInfo.cs
+C:\Users\arjan\Source\Repos\Dic_2\obj\Debug\netcoreapp2.1\Dic_2.dll
+C:\Users\arjan\Source\Repos\Dic_2\obj\Debug\netcoreapp2.1\Dic_2.pdb
